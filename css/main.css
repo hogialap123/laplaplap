@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.header a
+{
+	font-size: 18px;
+}
+.models
+{padding: 20px}
+.news
+{
+	padding: 100px;	
+}
+.classiche
+{
+	padding: 50px;
+}
+.lab
+{
+	padding: 50px;
+}
+.rie
+{
+	padding: 50px;
+}
+.ghibli
+{
+	padding: 50px
+}
+.levante
+{
+	padding: 50px
+}
+.quattro
+{
+	padding: 50px;
+}
+.mc20
+{
+	padding: 50px;
+}
+.brand
+{
+	padding: 50px
+}
+.historyimg
+{
+	padding: 20px;
+}
+.contact
+{
+	padding: 50px;
+}
+.forms
+{
+	margin-left: 25%;
+	padding: 20px;
+		
+}
+.footer
+{
+	height: 300px;
+	background-color: grey;
+}
+.fook
+{
+	padding: 30px
+}
+.logofooter
+{
+	margin-left: 43%
+}
+.contact
+{
+	padding: 100px;
+}
